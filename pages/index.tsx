@@ -95,7 +95,7 @@ const Home: NextPage = () => {
             alt="Retro Coin Logo"
             width={200}
             height={200}
-            className="drop-shadow-[0_0_50px_rgba(234,179,8,0.6)]"
+            className=""
             priority
           />
         </div>
